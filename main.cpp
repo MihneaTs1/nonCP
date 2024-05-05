@@ -182,6 +182,7 @@ void preinit()
 
 void solve()
 {
+
 }
 
 /**
@@ -191,5 +192,5 @@ void solve()
 ///------------------------------------------------------->
 
 
-// Note: the program configuration settings are located and can be modified at line 5-19
+// Note: the program configuration settings are located and can be modified at line 77-90
 /// #MLC
