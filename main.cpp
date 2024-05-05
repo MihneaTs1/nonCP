@@ -110,11 +110,8 @@ void preinit()
 {
 }
 
-#define lim 200001
-
 void solve()
 {
-
 }
 
 /**
